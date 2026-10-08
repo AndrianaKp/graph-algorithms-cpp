@@ -1,0 +1,5 @@
+*.o
+bin/main
+bin/dijkstra_a_star
+.vscode/
+.DS_Store
